@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://rahmaha2026202.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://rahmaha2026202.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://rahmaha2026202.github.io/mywebsite/natural-beauties-and-wonders-of-the-world/</loc>
+<lastmod>2026-10-23T12:03:21+02:00</lastmod>
+<image:image>
+<image:loc>https://rahmaha2026202.github.io/mywebsite/media/posts/1/01ktk0dnqvcymg2wq0ssp0s6mp.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://rahmaha2026202.github.io/mywebsite/natural-beauties-and-wonders-of-the-world-continued/</loc>
+<lastmod>2026-10-23T11:38:38+02:00</lastmod>
+<image:image>
+<image:loc>https://rahmaha2026202.github.io/mywebsite/media/posts/2/p0kb4r8n.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://rahmaha2026202.github.io/mywebsite/media/posts/2/bioluminescent-mosquito-bay-vieques.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://rahmaha2026202.github.io/mywebsite/natural-beauties-and-wonders-of-the-worldfinal-page/</loc>
+<lastmod>2026-10-23T11:57:27+02:00</lastmod>
+<image:image>
+<image:loc>https://rahmaha2026202.github.io/mywebsite/media/posts/3/unnamed.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://rahmaha2026202.github.io/mywebsite/media/posts/3/2342515-eternal-flame-chestnut-ridge-park-ny.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
